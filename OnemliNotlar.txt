@@ -1,0 +1,2 @@
+                      ----Architecture Patterns(Mimari Patternler)----
+                      Architecture Patternler, bir porjenin sistematik iþleyiþinden (projede bulunan yapýlarýn calýsam mekanizmasýndan) sorumludur.
